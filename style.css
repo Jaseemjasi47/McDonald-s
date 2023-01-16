@@ -1,0 +1,37 @@
+.box{
+    padding-top: 150px;
+}
+.title{
+    font-size: 34px;
+    font-weight: bolder;
+}
+.link-style{
+    text-decoration: none;
+}
+
+
+.social-media{
+    list-style: none;
+    display: flex;
+}
+.sm-icon{
+    
+    cursor: pointer;
+
+
+}
+.download{
+    margin-left: 400px;
+}
+.footer-text{
+    list-style: none;
+}
+
+
+.logo-footer{
+    height: 30px;
+}
+.copyright-text{
+    text-decoration: none;
+    color: black;
+}
